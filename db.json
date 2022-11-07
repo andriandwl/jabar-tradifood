@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1667552000938,
+      "title": "asdasd",
+      "body": "asddas"
+    },
+    {
+      "userId": 1,
+      "id": 1667552006755,
+      "title": "czxczxczxc",
+      "body": "xzczxczx"
+    },
+    {
+      "userId": 1,
+      "id": 1667552009292,
+      "title": "zxczxczxc",
+      "body": "xzcxzcxzc"
+    },
+    {
+      "userId": 1,
+      "id": 1667552013095,
+      "title": "xzcxzczxczxcxzc",
+      "body": "zzxczxcxzczxc"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
